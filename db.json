@@ -4,134 +4,21 @@
         "student_name": "Salma Shabayek",
         "student_name_ar": "سلمى اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_1.png",
-        "student_age": 5,
-        "parent": {
-            "id": 2,
-            "name": "Esmail Shabayek",
-            "name_ar": "اسماعيل شبايك",
-            "email": "esmail.shabayek@gmail.com",
-            "mobile": "0201097072480",
-            "lat": "29.95511400",
-            "lng": "31.25503300"
-        },
-        "list": {
-            "id": 1,
-            "name": "List 1",
-            "region": "Saudi",
-            "school": {
-                "id": 1,
-                "school_name": "International Schools Group - Dammam",
-                "school_name_ar": "مدرسة الدمام العالمية",
-                "school_address": "King Saud St, النور، الدمام 32445, Saudi Arabia",
-                "school_lng": "50.02000000",
-                "school_lat": "26.43000000",
-                "created_at": "2019-01-27 17:25:29",
-                "updated_at": "2019-01-27 17:25:29"
-            }
-        },
-        "trip": {
-            "id": 1,
-            "trip_type": "Morning",
-            "trip_number": "56189118",
-            "trip_date": "2019-02-20",
-            "start_time": 0,
-            "end_time": 0,
-            "user_id": 3,
-            "studentlist_id": 1,
-            "bus_id": 1,
-            "created_at": "2019-01-27 17:27:50",
-            "updated_at": "2019-02-17 00:57:37",
-            "pivot": {
-                "student_id": 1,
-                "activity_trip_id": 1,
-                "start_time": 1550672965,
-                "end_time": 1550673151,
-                "estimated": 1550610186
-            }
-        }
+        "student_age": 5
     },
     {
         "id": 2,
         "student_name": "Karma Shabayek",
         "student_name_ar": "كارما اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_2.jpg",
-        "student_age": 2,
-        "parent": {
-            "id": 2,
-            "name": "Esmail Shabayek",
-            "name_ar": "اسماعيل شبايك",
-            "email": "esmail.shabayek@gmail.com",
-            "mobile": "0201097072480",
-            "lat": "29.95511400",
-            "lng": "31.25503300"
-        },
-        "list": {
-            "id": 1,
-            "name": "List 1",
-            "region": "Saudi",
-            "school": {
-                "id": 1,
-                "school_name": "International Schools Group - Dammam",
-                "school_name_ar": "مدرسة الدمام العالمية",
-                "school_address": "King Saud St, النور، الدمام 32445, Saudi Arabia",
-                "school_lng": "50.02000000",
-                "school_lat": "26.43000000",
-                "created_at": "2019-01-27 17:25:29",
-                "updated_at": "2019-01-27 17:25:29"
-            }
-        },
-        "trip": {
-            "id": 1,
-            "trip_type": "Morning",
-            "trip_number": "56189118",
-            "trip_date": "2019-02-20",
-            "start_time": 0,
-            "end_time": 0,
-            "user_id": 3,
-            "studentlist_id": 1,
-            "bus_id": 1,
-            "created_at": "2019-01-27 17:27:50",
-            "updated_at": "2019-02-17 00:57:37",
-            "pivot": {
-                "student_id": 2,
-                "activity_trip_id": 1,
-                "start_time": 1550672977,
-                "end_time": 1550673151,
-                "estimated": 1550610174
-            }
-        }
+        "student_age": 2
     },
     {
         "id": 3,
         "student_name": "Mohamed Shabayek",
         "student_name_ar": "محمد اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_3.jpg",
-        "student_age": 2,
-        "parent": {
-            "id": 2,
-            "name": "Esmail Shabayek",
-            "name_ar": "اسماعيل شبايك",
-            "email": "esmail.shabayek@gmail.com",
-            "mobile": "0201097072480",
-            "lat": "29.95511400",
-            "lng": "31.25503300"
-        },
-        "list": {
-            "id": 1,
-            "name": "List 1",
-            "region": "Saudi",
-            "school": {
-                "id": 1,
-                "school_name": "International Schools Group - Dammam",
-                "school_name_ar": "مدرسة الدمام العالمية",
-                "school_address": "King Saud St, النور، الدمام 32445, Saudi Arabia",
-                "school_lng": "50.02000000",
-                "school_lat": "26.43000000",
-                "created_at": "2019-01-27 17:25:29",
-                "updated_at": "2019-01-27 17:25:29"
-            }
-        },
-        "trip": null
-    }
+        "student_age": 2
+    }      
 ]
 }
