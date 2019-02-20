@@ -1,4 +1,4 @@
-[
+{ "students" :[
     {
         "id": 1,
         "student_name": "Salma Shabayek",
@@ -134,3 +134,4 @@
         "trip": null
     }
 ]
+}
