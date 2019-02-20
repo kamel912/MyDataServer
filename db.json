@@ -5,7 +5,7 @@
         "student_name_ar": "سلمى اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_1.png",
         "student_age": 5,
-        "parent": {
+        "parent": [{
             "id": 2,
             "name": "Esmail Shabayek",
             "name_ar": "اسماعيل شبايك",
@@ -13,7 +13,7 @@
             "mobile": "0201097072480",
             "lat": "29.95511400",
             "lng": "31.25503300"
-        },
+        }],
         "list": {
             "id": 1,
             "name": "List 1",
@@ -56,7 +56,7 @@
         "student_name_ar": "كارما اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_2.jpg",
         "student_age": 2,
-        "parent": {
+        "parent": [{
             "id": 2,
             "name": "Esmail Shabayek",
             "name_ar": "اسماعيل شبايك",
@@ -64,7 +64,7 @@
             "mobile": "0201097072480",
             "lat": "29.95511400",
             "lng": "31.25503300"
-        },
+        }],
         "list": {
             "id": 1,
             "name": "List 1",
@@ -107,7 +107,7 @@
         "student_name_ar": "محمد اسماعيل شبايك",
         "student_avatar": "http://192.168.1.107/tabie/public/storage/img/student/id_3.jpg",
         "student_age": 2,
-        "parent": {
+         "parent": [{
             "id": 2,
             "name": "Esmail Shabayek",
             "name_ar": "اسماعيل شبايك",
@@ -115,7 +115,7 @@
             "mobile": "0201097072480",
             "lat": "29.95511400",
             "lng": "31.25503300"
-        },
+        }],
         "list": {
             "id": 1,
             "name": "List 1",
